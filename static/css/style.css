@@ -1,0 +1,38 @@
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  line-height: 30px;
+  color: gray;
+  font-size: px;
+  background-color: white;
+  padding: 10px;
+}
+
+.legend i {
+  width: 40px;
+  height: 20px;
+  float: left;
+  margin-right: 8px;
+}
+.leaflet-control-layers-list{
+  font-size: 20px;
+}
+
+.leaflet-popup-content {
+  font-size: 8px;
+  width: 100px;
+}
+
+.leaflet-popup-content-wrapper{
+  background-color: rgb(223, 219, 219);
+}
