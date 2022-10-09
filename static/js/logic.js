@@ -41,7 +41,7 @@ function earthQuakeMap() {
 
 function mapLegend(map) {
 
-    colors = ["brown", "purple", "blue", "green", "orange", "red"];
+    colors = ["springgreen", "greenyellow", "gold", "orange", "darkorange", "orangered"];
 
     var legend = L.control({position: 'bottomright'});
 
